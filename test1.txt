@@ -1,10 +1,1 @@
- Volume in drive D is New Volume
- Volume Serial Number is 385E-0124
-
- Directory of D:\Git\MyProject
-
-03/10/2021  09:40 PM    <DIR>          .
-03/10/2021  09:40 PM    <DIR>          ..
-03/10/2021  09:40 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  336,307,040,256 bytes free
+Hello
